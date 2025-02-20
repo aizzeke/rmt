@@ -43,9 +43,6 @@ This approach is aimed at addressing the challenges of urban transit systems, en
 - **Multi-Step Prediction:**  
   Our framework predicts bus arrival times for multiple upcoming stops rather than just the next stop.
 
-- **Data Fusion:**  
-  The approach integrates heterogeneous data sources including real-time GPS, traffic, and weather data to improve prediction accuracy.
-
 - **Performance Evaluation:**  
   Models are evaluated using RMSE, MAE, and R² scores. The experimental results demonstrate competitive performance compared to traditional methods.
 
